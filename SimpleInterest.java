@@ -27,6 +27,7 @@ public class SimpleInterest{
       System.out.print("Enter Rate of Interest11111111111111111");
       System.out.print("Enter Rate of Intere22222222222222222222");
        System.out.println("Hi");
+       System.out.println("Hi");
                  
     }
 }
